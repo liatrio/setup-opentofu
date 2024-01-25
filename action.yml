@@ -1,4 +1,4 @@
-name: 'OpenTofu - Setup Tofu'
+name: 'OpenTofu - Setup Tofu (Liatrio)'
 description: 'Sets up OpenTofu CLI in your GitHub Actions workflow.'
 author: 'OpenTofu'
 inputs:
